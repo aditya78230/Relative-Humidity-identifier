@@ -1,0 +1,1358 @@
+id,RH_type
+1,Ideal
+2,Ideal
+3,Ideal
+4,Ideal
+5,Ideal
+6,Ideal
+7,Ideal
+8,Ideal
+9,Ideal
+10,Ideal
+11,Dry
+12,Dry
+13,Dry
+14,Ideal
+15,Ideal
+16,Ideal
+17,Ideal
+18,Ideal
+19,Ideal
+20,Ideal
+21,Ideal
+22,Ideal
+23,Ideal
+24,Ideal
+25,Ideal
+26,Ideal
+27,Ideal
+28,Ideal
+29,Ideal
+30,Ideal
+31,Ideal
+32,Ideal
+33,Ideal
+34,Ideal
+35,Ideal
+36,Ideal
+37,Dry
+38,Dry
+39,Dry
+40,Dry
+41,Dry
+42,Dry
+43,Dry
+44,Dry
+45,Dry
+46,Dry
+47,Dry
+48,Dry
+49,Dry
+50,Dry
+51,Dry
+52,Dry
+53,Dry
+54,Dry
+55,Dry
+56,Dry
+57,Dry
+58,Dry
+59,Dry
+60,Dry
+61,Dry
+62,Dry
+63,Dry
+64,Dry
+65,Dry
+66,Dry
+67,Dry
+68,Dry
+69,Dry
+70,Dry
+71,Dry
+72,Dry
+73,Dry
+74,Dry
+75,Dry
+76,Dry
+77,Dry
+78,Dry
+79,Dry
+80,Dry
+81,Dry
+82,Dry
+83,Dry
+84,Dry
+85,Dry
+86,Dry
+87,Dry
+88,Dry
+89,Dry
+90,Dry
+91,Dry
+92,Dry
+93,Dry
+94,Dry
+95,Dry
+96,Dry
+97,Dry
+98,Dry
+99,Dry
+100,Dry
+101,Dry
+102,Dry
+103,Dry
+104,Dry
+105,Dry
+106,Dry
+107,Dry
+108,Dry
+109,Dry
+110,Dry
+111,Dry
+112,Dry
+113,Dry
+114,Dry
+115,Dry
+116,Slightly Elevated
+117,Ideal
+118,Slightly Elevated
+119,Slightly Elevated
+120,Ideal
+121,Slightly Elevated
+122,Elevated
+123,Elevated
+124,Elevated
+125,Elevated
+126,Elevated
+127,Ideal
+128,Ideal
+129,Ideal
+130,Ideal
+131,Slightly Elevated
+132,Slightly Elevated
+133,Slightly Elevated
+134,Slightly Elevated
+135,Slightly Elevated
+136,Slightly Elevated
+137,Slightly Elevated
+138,Slightly Elevated
+139,Slightly Elevated
+140,Slightly Elevated
+141,Elevated
+142,Slightly Elevated
+143,Slightly Elevated
+144,Slightly Elevated
+145,Slightly Elevated
+146,Slightly Elevated
+147,Slightly Elevated
+148,Slightly Elevated
+149,Slightly Elevated
+150,High
+151,Slightly Elevated
+152,Slightly Elevated
+153,Slightly Elevated
+154,Slightly Elevated
+155,Slightly Elevated
+156,Ideal
+157,Ideal
+158,Ideal
+159,Ideal
+160,Ideal
+161,Ideal
+162,Ideal
+163,Ideal
+164,Ideal
+165,Slightly Elevated
+166,Elevated
+167,Elevated
+168,Elevated
+169,Elevated
+170,Elevated
+171,Elevated
+172,Elevated
+173,Elevated
+174,Ideal
+175,Ideal
+176,Ideal
+177,Ideal
+178,Ideal
+179,Ideal
+180,Ideal
+181,Ideal
+182,Ideal
+183,Dry
+184,Dry
+185,Dry
+186,Dry
+187,Dry
+188,Dry
+189,Dry
+190,Ideal
+191,Ideal
+192,Ideal
+193,Ideal
+194,Ideal
+195,Ideal
+196,Ideal
+197,Ideal
+198,Ideal
+199,Ideal
+200,Ideal
+201,Ideal
+202,Ideal
+203,Dry
+204,Dry
+205,Dry
+206,Dry
+207,Dry
+208,Ideal
+209,Dry
+210,Dry
+211,Dry
+212,Ideal
+213,Ideal
+214,Ideal
+215,Ideal
+216,Ideal
+217,Ideal
+218,Slightly Elevated
+219,Ideal
+220,Slightly Elevated
+221,Slightly Elevated
+222,Ideal
+223,Ideal
+224,Ideal
+225,Ideal
+226,Ideal
+227,Ideal
+228,Ideal
+229,Ideal
+230,Ideal
+231,Ideal
+232,Ideal
+233,Ideal
+234,Ideal
+235,Ideal
+236,Ideal
+237,Ideal
+238,Ideal
+239,Ideal
+240,Ideal
+241,Ideal
+242,Ideal
+243,Ideal
+244,Ideal
+245,Ideal
+246,Ideal
+247,Ideal
+248,Ideal
+249,Ideal
+250,Ideal
+251,Ideal
+252,Ideal
+253,Ideal
+254,Ideal
+255,Ideal
+256,Ideal
+257,Ideal
+258,Ideal
+259,Ideal
+260,Ideal
+261,Ideal
+262,Ideal
+263,Ideal
+264,Ideal
+265,Ideal
+266,Ideal
+267,Ideal
+268,Ideal
+269,Ideal
+270,Ideal
+271,Ideal
+272,Ideal
+273,Ideal
+274,Ideal
+275,Ideal
+276,Ideal
+277,Ideal
+278,Ideal
+279,Ideal
+280,Ideal
+281,Ideal
+282,Ideal
+283,Ideal
+284,Ideal
+285,Ideal
+286,Ideal
+287,Ideal
+288,Ideal
+289,Slightly Elevated
+290,Slightly Elevated
+291,Elevated
+292,Elevated
+293,Elevated
+294,Elevated
+295,Ideal
+296,Ideal
+297,Slightly Elevated
+298,Slightly Elevated
+299,Ideal
+300,Ideal
+301,Ideal
+302,Ideal
+303,Ideal
+304,Ideal
+305,Ideal
+306,Ideal
+307,Ideal
+308,Ideal
+309,Ideal
+310,Ideal
+311,Ideal
+312,Ideal
+313,Ideal
+314,Slightly Elevated
+315,Ideal
+316,Ideal
+317,Slightly Elevated
+318,Slightly Elevated
+319,Slightly Elevated
+320,Slightly Elevated
+321,Ideal
+322,Ideal
+323,Slightly Elevated
+324,Elevated
+325,Elevated
+326,Slightly Elevated
+327,Slightly Elevated
+328,Slightly Elevated
+329,Slightly Elevated
+330,Slightly Elevated
+331,Elevated
+332,Elevated
+333,Slightly Elevated
+334,Ideal
+335,Elevated
+336,Elevated
+337,Elevated
+338,Elevated
+339,Elevated
+340,Elevated
+341,Elevated
+342,Elevated
+343,High
+344,Slightly Elevated
+345,Elevated
+346,Elevated
+347,Elevated
+348,Slightly Elevated
+349,Elevated
+350,Elevated
+351,High
+352,Slightly Elevated
+353,High
+354,Slightly Elevated
+355,Slightly Elevated
+356,Elevated
+357,Elevated
+358,Elevated
+359,Elevated
+360,Elevated
+361,Elevated
+362,Elevated
+363,Elevated
+364,Elevated
+365,Elevated
+366,Elevated
+367,Ideal
+368,Slightly Elevated
+369,Slightly Elevated
+370,Elevated
+371,Ideal
+372,Elevated
+373,Ideal
+374,High
+375,Slightly Elevated
+376,Elevated
+377,Ideal
+378,Ideal
+379,Ideal
+380,Elevated
+381,Slightly Elevated
+382,Slightly Elevated
+383,Elevated
+384,Elevated
+385,Elevated
+386,Elevated
+387,Elevated
+388,Slightly Elevated
+389,Slightly Elevated
+390,Elevated
+391,Elevated
+392,Elevated
+393,Elevated
+394,Elevated
+395,Elevated
+396,High
+397,Elevated
+398,Slightly Elevated
+399,High
+400,High
+401,Ideal
+402,Slightly Elevated
+403,Elevated
+404,Elevated
+405,Slightly Elevated
+406,Elevated
+407,Elevated
+408,Elevated
+409,Elevated
+410,Elevated
+411,Elevated
+412,Elevated
+413,Elevated
+414,Elevated
+415,Ideal
+416,Ideal
+417,High
+418,High
+419,Elevated
+420,Elevated
+421,Elevated
+422,Slightly Elevated
+423,Slightly Elevated
+424,Slightly Elevated
+425,Slightly Elevated
+426,Slightly Elevated
+427,Slightly Elevated
+428,High
+429,High
+430,High
+431,High
+432,Elevated
+433,Elevated
+434,Elevated
+435,Elevated
+436,Elevated
+437,Elevated
+438,Elevated
+439,Slightly Elevated
+440,Slightly Elevated
+441,Slightly Elevated
+442,Ideal
+443,Ideal
+444,Ideal
+445,Ideal
+446,Ideal
+447,Ideal
+448,Ideal
+449,Ideal
+450,Ideal
+451,Ideal
+452,Ideal
+453,Ideal
+454,Elevated
+455,Slightly Elevated
+456,Ideal
+457,Slightly Elevated
+458,Elevated
+459,Elevated
+460,Elevated
+461,Ideal
+462,Ideal
+463,Ideal
+464,Ideal
+465,Ideal
+466,Ideal
+467,Ideal
+468,Ideal
+469,Ideal
+470,Ideal
+471,Ideal
+472,Ideal
+473,Ideal
+474,Ideal
+475,Ideal
+476,Ideal
+477,Ideal
+478,Ideal
+479,Ideal
+480,Ideal
+481,Slightly Elevated
+482,Elevated
+483,Elevated
+484,Ideal
+485,Ideal
+486,Elevated
+487,Elevated
+488,Elevated
+489,Ideal
+490,Ideal
+491,Ideal
+492,Ideal
+493,Ideal
+494,Ideal
+495,Ideal
+496,Ideal
+497,Ideal
+498,Ideal
+499,Ideal
+500,Ideal
+501,Ideal
+502,Ideal
+503,Ideal
+504,Ideal
+505,Ideal
+506,Ideal
+507,Ideal
+508,Ideal
+509,Ideal
+510,Ideal
+511,Ideal
+512,Ideal
+513,Ideal
+514,Ideal
+515,Ideal
+516,Ideal
+517,Dry
+518,Dry
+519,Dry
+520,Dry
+521,Ideal
+522,Dry
+523,Ideal
+524,Dry
+525,Dry
+526,Dry
+527,Dry
+528,Ideal
+529,Ideal
+530,Dry
+531,Ideal
+532,Ideal
+533,Ideal
+534,Dry
+535,Ideal
+536,Ideal
+537,Dry
+538,Dry
+539,Dry
+540,Dry
+541,Dry
+542,Dry
+543,Dry
+544,Dry
+545,Dry
+546,Ideal
+547,Dry
+548,Ideal
+549,Dry
+550,Dry
+551,Dry
+552,Dry
+553,Dry
+554,Ideal
+555,Dry
+556,Ideal
+557,Dry
+558,Dry
+559,Dry
+560,Dry
+561,Dry
+562,Dry
+563,Dry
+564,Dry
+565,Dry
+566,Dry
+567,Dry
+568,Dry
+569,Dry
+570,Dry
+571,Ideal
+572,Ideal
+573,Ideal
+574,Ideal
+575,Ideal
+576,Ideal
+577,Ideal
+578,Slightly Elevated
+579,Slightly Elevated
+580,Elevated
+581,Elevated
+582,Elevated
+583,Ideal
+584,Ideal
+585,Ideal
+586,Ideal
+587,Elevated
+588,Elevated
+589,Elevated
+590,Elevated
+591,Elevated
+592,High
+593,High
+594,Slightly Elevated
+595,Slightly Elevated
+596,High
+597,High
+598,Elevated
+599,Elevated
+600,Elevated
+601,Elevated
+602,Elevated
+603,Ideal
+604,Elevated
+605,Elevated
+606,Elevated
+607,Slightly Elevated
+608,Slightly Elevated
+609,Ideal
+610,Ideal
+611,Ideal
+612,Slightly Elevated
+613,Ideal
+614,Ideal
+615,Ideal
+616,Ideal
+617,Ideal
+618,Ideal
+619,Slightly Elevated
+620,Ideal
+621,Elevated
+622,Ideal
+623,Slightly Elevated
+624,Ideal
+625,Elevated
+626,Elevated
+627,Elevated
+628,Elevated
+629,Elevated
+630,Ideal
+631,Ideal
+632,Ideal
+633,Ideal
+634,Ideal
+635,Ideal
+636,Dry
+637,Ideal
+638,Ideal
+639,Ideal
+640,Ideal
+641,Ideal
+642,Slightly Elevated
+643,Elevated
+644,High
+645,High
+646,Elevated
+647,Slightly Elevated
+648,Slightly Elevated
+649,Ideal
+650,Ideal
+651,Ideal
+652,Slightly Elevated
+653,Ideal
+654,Ideal
+655,Ideal
+656,Ideal
+657,Ideal
+658,Ideal
+659,Ideal
+660,Dry
+661,Dry
+662,Dry
+663,Ideal
+664,Ideal
+665,Ideal
+666,Ideal
+667,Ideal
+668,Ideal
+669,Ideal
+670,Ideal
+671,Ideal
+672,Ideal
+673,Ideal
+674,Ideal
+675,Ideal
+676,Ideal
+677,Ideal
+678,Ideal
+679,Ideal
+680,Ideal
+681,Ideal
+682,Ideal
+683,Dry
+684,Dry
+685,Dry
+686,Dry
+687,Ideal
+688,Ideal
+689,Dry
+690,Dry
+691,Ideal
+692,Ideal
+693,Ideal
+694,Ideal
+695,Ideal
+696,Ideal
+697,Ideal
+698,Slightly Elevated
+699,Slightly Elevated
+700,Slightly Elevated
+701,Ideal
+702,Ideal
+703,Ideal
+704,Ideal
+705,Ideal
+706,Dry
+707,Dry
+708,Dry
+709,Dry
+710,Dry
+711,Dry
+712,Dry
+713,Dry
+714,Ideal
+715,Ideal
+716,Ideal
+717,Ideal
+718,Ideal
+719,Ideal
+720,Slightly Elevated
+721,Ideal
+722,Ideal
+723,Slightly Elevated
+724,Elevated
+725,Elevated
+726,Elevated
+727,Slightly Elevated
+728,Slightly Elevated
+729,Ideal
+730,Ideal
+731,Ideal
+732,Ideal
+733,Ideal
+734,Ideal
+735,Ideal
+736,Ideal
+737,Ideal
+738,Ideal
+739,Slightly Elevated
+740,Slightly Elevated
+741,Elevated
+742,Elevated
+743,Elevated
+744,Elevated
+745,Elevated
+746,Elevated
+747,Elevated
+748,Elevated
+749,Elevated
+750,Elevated
+751,Slightly Elevated
+752,Slightly Elevated
+753,Ideal
+754,Ideal
+755,Ideal
+756,Dry
+757,Dry
+758,Dry
+759,Dry
+760,Dry
+761,Dry
+762,Dry
+763,Dry
+764,Ideal
+765,Ideal
+766,Ideal
+767,Ideal
+768,Ideal
+769,Ideal
+770,Ideal
+771,Slightly Elevated
+772,Ideal
+773,Ideal
+774,Elevated
+775,Ideal
+776,Ideal
+777,Ideal
+778,Dry
+779,Ideal
+780,Ideal
+781,Ideal
+782,Ideal
+783,Ideal
+784,Dry
+785,Ideal
+786,Ideal
+787,Slightly Elevated
+788,Slightly Elevated
+789,Slightly Elevated
+790,Slightly Elevated
+791,Elevated
+792,Elevated
+793,Ideal
+794,Elevated
+795,Elevated
+796,Elevated
+797,Elevated
+798,High
+799,Elevated
+800,Elevated
+801,Ideal
+802,Ideal
+803,Ideal
+804,Ideal
+805,Ideal
+806,Ideal
+807,Ideal
+808,Ideal
+809,Ideal
+810,Ideal
+811,Slightly Elevated
+812,Slightly Elevated
+813,Elevated
+814,Elevated
+815,Slightly Elevated
+816,Slightly Elevated
+817,Slightly Elevated
+818,Elevated
+819,Elevated
+820,Slightly Elevated
+821,Slightly Elevated
+822,Slightly Elevated
+823,Slightly Elevated
+824,Slightly Elevated
+825,Ideal
+826,Slightly Elevated
+827,Slightly Elevated
+828,Slightly Elevated
+829,Ideal
+830,Ideal
+831,Ideal
+832,Ideal
+833,Ideal
+834,Slightly Elevated
+835,Slightly Elevated
+836,Slightly Elevated
+837,Slightly Elevated
+838,Elevated
+839,Elevated
+840,Elevated
+841,Elevated
+842,Elevated
+843,Elevated
+844,High
+845,Elevated
+846,Elevated
+847,Slightly Elevated
+848,Slightly Elevated
+849,Slightly Elevated
+850,Ideal
+851,Ideal
+852,Ideal
+853,Ideal
+854,Ideal
+855,Ideal
+856,Ideal
+857,Ideal
+858,Ideal
+859,Slightly Elevated
+860,Slightly Elevated
+861,Slightly Elevated
+862,Elevated
+863,Elevated
+864,Elevated
+865,Elevated
+866,Elevated
+867,Slightly Elevated
+868,Elevated
+869,Elevated
+870,Elevated
+871,Elevated
+872,Slightly Elevated
+873,Ideal
+874,Ideal
+875,Ideal
+876,Ideal
+877,Dry
+878,Dry
+879,Dry
+880,Ideal
+881,Ideal
+882,Ideal
+883,Ideal
+884,Slightly Elevated
+885,Slightly Elevated
+886,Slightly Elevated
+887,Slightly Elevated
+888,Elevated
+889,Elevated
+890,Elevated
+891,Elevated
+892,Elevated
+893,High
+894,High
+895,Elevated
+896,Slightly Elevated
+897,Ideal
+898,Ideal
+899,Ideal
+900,Dry
+901,Dry
+902,Dry
+903,Dry
+904,Dry
+905,Dry
+906,Ideal
+907,Ideal
+908,Ideal
+909,Ideal
+910,Ideal
+911,Ideal
+912,Slightly Elevated
+913,Slightly Elevated
+914,Elevated
+915,Elevated
+916,Elevated
+917,Elevated
+918,Elevated
+919,Slightly Elevated
+920,Slightly Elevated
+921,Ideal
+922,Ideal
+923,Dry
+924,Dry
+925,Dry
+926,Dry
+927,Dry
+928,Dry
+929,Ideal
+930,Ideal
+931,Ideal
+932,Ideal
+933,Ideal
+934,Slightly Elevated
+935,Slightly Elevated
+936,Elevated
+937,Elevated
+938,Elevated
+939,Elevated
+940,Elevated
+941,High
+942,Elevated
+943,Slightly Elevated
+944,Slightly Elevated
+945,Ideal
+946,Ideal
+947,Ideal
+948,Dry
+949,Dry
+950,Dry
+951,Dry
+952,Dry
+953,Dry
+954,Ideal
+955,Ideal
+956,Slightly Elevated
+957,Elevated
+958,High
+959,Elevated
+960,Elevated
+961,High
+962,Elevated
+963,Elevated
+964,Elevated
+965,Elevated
+966,Elevated
+967,Slightly Elevated
+968,Slightly Elevated
+969,Slightly Elevated
+970,Slightly Elevated
+971,Slightly Elevated
+972,Slightly Elevated
+973,Ideal
+974,Ideal
+975,Ideal
+976,Ideal
+977,Ideal
+978,Slightly Elevated
+979,Slightly Elevated
+980,Slightly Elevated
+981,Elevated
+982,Slightly Elevated
+983,Elevated
+984,Elevated
+985,Elevated
+986,Elevated
+987,Elevated
+988,Elevated
+989,Elevated
+990,Elevated
+991,Elevated
+992,Slightly Elevated
+993,Slightly Elevated
+994,Slightly Elevated
+995,Ideal
+996,Ideal
+997,Ideal
+998,Ideal
+999,Ideal
+1000,Ideal
+1001,Ideal
+1002,Slightly Elevated
+1003,Slightly Elevated
+1004,Slightly Elevated
+1005,Elevated
+1006,Elevated
+1007,Elevated
+1008,Elevated
+1009,Elevated
+1010,Elevated
+1011,Elevated
+1012,High
+1013,Elevated
+1014,Elevated
+1015,Slightly Elevated
+1016,Slightly Elevated
+1017,Slightly Elevated
+1018,Ideal
+1019,Ideal
+1020,Ideal
+1021,Ideal
+1022,Ideal
+1023,Ideal
+1024,Ideal
+1025,Ideal
+1026,Ideal
+1027,Slightly Elevated
+1028,Slightly Elevated
+1029,Slightly Elevated
+1030,Elevated
+1031,Elevated
+1032,Elevated
+1033,Elevated
+1034,Elevated
+1035,Elevated
+1036,Elevated
+1037,High
+1038,High
+1039,Slightly Elevated
+1040,Slightly Elevated
+1041,Slightly Elevated
+1042,Ideal
+1043,Ideal
+1044,Ideal
+1045,Ideal
+1046,Dry
+1047,Dry
+1048,Dry
+1049,Ideal
+1050,Ideal
+1051,Ideal
+1052,Slightly Elevated
+1053,Slightly Elevated
+1054,Slightly Elevated
+1055,Slightly Elevated
+1056,Elevated
+1057,Elevated
+1058,Elevated
+1059,Elevated
+1060,Slightly Elevated
+1061,Elevated
+1062,Elevated
+1063,Slightly Elevated
+1064,Ideal
+1065,Ideal
+1066,Ideal
+1067,Ideal
+1068,Dry
+1069,Dry
+1070,Dry
+1071,Dry
+1072,Dry
+1073,Ideal
+1074,Ideal
+1075,Ideal
+1076,Ideal
+1077,Ideal
+1078,Ideal
+1079,Slightly Elevated
+1080,Slightly Elevated
+1081,Ideal
+1082,Elevated
+1083,Slightly Elevated
+1084,Elevated
+1085,Slightly Elevated
+1086,Elevated
+1087,Slightly Elevated
+1088,Slightly Elevated
+1089,Ideal
+1090,Ideal
+1091,High
+1092,Slightly Elevated
+1093,Ideal
+1094,Ideal
+1095,Ideal
+1096,Ideal
+1097,Ideal
+1098,Ideal
+1099,Ideal
+1100,Ideal
+1101,Slightly Elevated
+1102,Slightly Elevated
+1103,Slightly Elevated
+1104,High
+1105,High
+1106,High
+1107,High
+1108,High
+1109,High
+1110,High
+1111,High
+1112,Elevated
+1113,Slightly Elevated
+1114,Ideal
+1115,Ideal
+1116,Ideal
+1117,Ideal
+1118,Ideal
+1119,Ideal
+1120,Ideal
+1121,Ideal
+1122,Slightly Elevated
+1123,Slightly Elevated
+1124,Slightly Elevated
+1125,Elevated
+1126,Elevated
+1127,Elevated
+1128,Elevated
+1129,High
+1130,High
+1131,High
+1132,Elevated
+1133,High
+1134,High
+1135,High
+1136,Slightly Elevated
+1137,Slightly Elevated
+1138,Slightly Elevated
+1139,Ideal
+1140,Ideal
+1141,Ideal
+1142,Ideal
+1143,Ideal
+1144,Ideal
+1145,Ideal
+1146,Ideal
+1147,Slightly Elevated
+1148,Slightly Elevated
+1149,Elevated
+1150,High
+1151,High
+1152,Elevated
+1153,Elevated
+1154,Elevated
+1155,Elevated
+1156,Elevated
+1157,Elevated
+1158,Elevated
+1159,Elevated
+1160,High
+1161,High
+1162,High
+1163,Elevated
+1164,Ideal
+1165,Slightly Elevated
+1166,Elevated
+1167,High
+1168,High
+1169,High
+1170,High
+1171,High
+1172,High
+1173,High
+1174,High
+1175,High
+1176,High
+1177,High
+1178,High
+1179,Elevated
+1180,Elevated
+1181,Elevated
+1182,High
+1183,High
+1184,Elevated
+1185,Elevated
+1186,Ideal
+1187,Ideal
+1188,Ideal
+1189,Ideal
+1190,Ideal
+1191,Ideal
+1192,Ideal
+1193,Ideal
+1194,Ideal
+1195,Slightly Elevated
+1196,Slightly Elevated
+1197,Elevated
+1198,Elevated
+1199,Elevated
+1200,Elevated
+1201,Elevated
+1202,Elevated
+1203,Elevated
+1204,Elevated
+1205,Elevated
+1206,Elevated
+1207,Slightly Elevated
+1208,Slightly Elevated
+1209,Slightly Elevated
+1210,Ideal
+1211,Slightly Elevated
+1212,Slightly Elevated
+1213,Slightly Elevated
+1214,Slightly Elevated
+1215,Slightly Elevated
+1216,Ideal
+1217,Slightly Elevated
+1218,Elevated
+1219,Slightly Elevated
+1220,Slightly Elevated
+1221,Elevated
+1222,Elevated
+1223,Elevated
+1224,Elevated
+1225,High
+1226,Elevated
+1227,Elevated
+1228,High
+1229,High
+1230,Slightly Elevated
+1231,Slightly Elevated
+1232,Slightly Elevated
+1233,Ideal
+1234,Ideal
+1235,Ideal
+1236,Dry
+1237,Dry
+1238,Dry
+1239,Dry
+1240,Ideal
+1241,Ideal
+1242,Ideal
+1243,Slightly Elevated
+1244,Slightly Elevated
+1245,Slightly Elevated
+1246,Elevated
+1247,Elevated
+1248,Elevated
+1249,Elevated
+1250,Elevated
+1251,Elevated
+1252,High
+1253,Elevated
+1254,Slightly Elevated
+1255,Ideal
+1256,Ideal
+1257,Ideal
+1258,Ideal
+1259,Ideal
+1260,Ideal
+1261,Ideal
+1262,Ideal
+1263,Ideal
+1264,Ideal
+1265,Ideal
+1266,Ideal
+1267,Ideal
+1268,Ideal
+1269,Ideal
+1270,Ideal
+1271,Ideal
+1272,Ideal
+1273,Ideal
+1274,Ideal
+1275,Ideal
+1276,Slightly Elevated
+1277,Ideal
+1278,Ideal
+1279,Ideal
+1280,Ideal
+1281,Ideal
+1282,Ideal
+1283,Ideal
+1284,Ideal
+1285,Dry
+1286,Dry
+1287,Dry
+1288,Dry
+1289,Dry
+1290,Ideal
+1291,Ideal
+1292,Ideal
+1293,Ideal
+1294,Ideal
+1295,Ideal
+1296,Ideal
+1297,Ideal
+1298,Ideal
+1299,Ideal
+1300,Ideal
+1301,Ideal
+1302,Ideal
+1303,Ideal
+1304,Ideal
+1305,Ideal
+1306,Ideal
+1307,Dry
+1308,Dry
+1309,Dry
+1310,Dry
+1311,Dry
+1312,Dry
+1313,Dry
+1314,Ideal
+1315,Ideal
+1316,Ideal
+1317,Ideal
+1318,Ideal
+1319,Ideal
+1320,Ideal
+1321,Ideal
+1322,Ideal
+1323,Ideal
+1324,Slightly Elevated
+1325,Slightly Elevated
+1326,Ideal
+1327,Ideal
+1328,Ideal
+1329,Dry
+1330,Dry
+1331,Dry
+1332,Dry
+1333,Dry
+1334,Dry
+1335,Dry
+1336,Dry
+1337,Dry
+1338,Ideal
+1339,Ideal
+1340,Ideal
+1341,Slightly Elevated
+1342,Slightly Elevated
+1343,Slightly Elevated
+1344,Slightly Elevated
+1345,Slightly Elevated
+1346,Elevated
+1347,Elevated
+1348,Elevated
+1349,Elevated
+1350,High
+1351,Slightly Elevated
+1352,Ideal
+1353,Ideal
+1354,Dry
+1355,Dry
+1356,Dry
+1357,Dry
